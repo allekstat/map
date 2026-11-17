@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "81633ef7-221c-4da1-8697-e46afd6a90c4"
+      }
+    },
+    "android": {
+      "package": "net.allekstat.map"
+    }
+  }
+}
